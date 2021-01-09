@@ -1,0 +1,3 @@
+include ':AngLibrary'
+include ':app'
+rootProject.name = "ProjectAngLibrary"
